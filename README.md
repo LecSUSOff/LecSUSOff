@@ -1,5 +1,13 @@
-- ✨ Hi, I’m @LecSUSOff
-- 👀 I’m interested in making good stuff
-- 🌱 I’m currently learning python
-- 📫 How to reach me discord(lecsusoff)
-- 😄 Pronouns: he/him
+# ✨ Hi, I’m @LecSUSOff  
+
+## 👀 Interests  
+I’m interested in making good stuff  
+
+## 🌱 Learning  
+Currently exploring Python  
+
+## 📫 Contact  
+- 🗨️ Discord: `lecsusoff`  
+
+## 😄 Pronouns  
+He/Him  
