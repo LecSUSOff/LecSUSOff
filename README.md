@@ -7,7 +7,7 @@ I’m interested in making good stuff
 Currently exploring Python  
 
 ## 📫 Contact  
-- 🗨️ Discord: `lecsusoff`  
+🗨️ Discord: `lecsusoff`  
 
 ## 😄 Pronouns  
 He/Him  
